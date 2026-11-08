@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1320px" height="750px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1420px" height="750px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1320px" height="750px" fill="#f6f8fa" rx="15"/>
+<rect width="1420px" height="750px" fill="#f6f8fa" rx="15"/>
 <text x="24" y="34" font-size="14"><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(252,252,252)">.</tspan><tspan fill="rgb(250,250,250)">.</tspan><tspan fill="rgb(250,250,250)">.</tspan><tspan fill="rgb(252,252,252)">.</tspan><tspan fill="rgb(254,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(253,253,253)">.</tspan><tspan fill="rgb(251,251,251)">.</tspan><tspan fill="rgb(250,250,250)">.</tspan><tspan fill="rgb(251,251,251)">.</tspan><tspan fill="rgb(253,253,253)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan></text>
 <text x="24" y="51" font-size="14"><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(251,251,251)">.</tspan><tspan fill="rgb(252,252,252)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(251,250,250)">.</tspan><tspan fill="rgb(248,248,247)">.</tspan><tspan fill="rgb(253,253,253)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(252,252,252)">.</tspan><tspan fill="rgb(251,251,251)">.</tspan><tspan fill="rgb(254,253,253)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,253,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan></text>
 <text x="24" y="68" font-size="14"><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(252,252,252)">.</tspan><tspan fill="rgb(253,253,253)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(231,229,228)">&amp;</tspan><tspan fill="rgb(174,173,171)">G</tspan><tspan fill="rgb(125,123,121)">5</tspan><tspan fill="rgb(77,77,74)">s</tspan><tspan fill="rgb(58,56,53)">i</tspan><tspan fill="rgb(53,50,47)">;</tspan><tspan fill="rgb(51,48,45)">;</tspan><tspan fill="rgb(56,54,52)">i</tspan><tspan fill="rgb(70,68,65)">r</tspan><tspan fill="rgb(102,100,97)">A</tspan><tspan fill="rgb(139,137,135)">3</tspan><tspan fill="rgb(192,190,188)">S</tspan><tspan fill="rgb(240,239,239)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(255,255,255)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(251,251,251)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan><tspan fill="rgb(254,254,254)">.</tspan></text>
@@ -55,98 +55,98 @@ text, tspan {white-space: pre;}
 <text x="103" y="669" font-size="20" fill="rgb(0,174,219)">| __ | || | '_ \ '_/ -_) -_) _` |</text>
 <text x="103" y="690" font-size="20" fill="rgb(0,174,219)">|_||_|\_, |_.__/_| \___\___\__,_|</text>
 <text x="103" y="711" font-size="20" fill="rgb(0,174,219)">      |__/</text>
-<text x="560" y="50" fill="#24292f">
-<tspan x="560" y="50">ayuketang@hybreed --------------------------------------------------------</tspan>
+<text x="610" y="50" fill="#24292f">
+<tspan x="610" y="50">ayuketang@hybreed --------------------------------------------------------</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">OS</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ............................... </tspan>
+<tspan class="cc"> ............................. </tspan>
 <tspan class="value">Windows 11, Android, Linux</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Uptime</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ........................... </tspan>
-<tspan class="cc" id="age_data_dots"> ...................... </tspan>
+<tspan class="cc"> ......................... </tspan>
+<tspan class="cc" id="age_data_dots"> .......... </tspan>
 <tspan class="value" id="age_data">22 years, 11 months, 30 days</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Host</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ............................. </tspan>
-<tspan class="value">Hybreed Inc. — Cameroon's biggest marketplace</tspan>
+<tspan class="cc"> ........................... </tspan>
+<tspan class="value">Hybreed Inc. — Cameroon's marketplace</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Kernel</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ........................... </tspan>
+<tspan class="cc"> ......................... </tspan>
 <tspan class="value">Mechanical Engineering → Full-Stack Dev</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">IDE</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> .............................. </tspan>
+<tspan class="cc"> ............................ </tspan>
 <tspan class="value">VS Code, IntelliJ IDEA</tspan>
 <tspan class="cc">. </tspan>
-<tspan class="cc"> .................................. </tspan>
+<tspan class="cc"> ................................ </tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Languages</tspan>
 <tspan class="key">.</tspan>
 <tspan class="key">Programming</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ............ </tspan>
+<tspan class="cc"> .......... </tspan>
 <tspan class="value">PHP, TypeScript, JavaScript, Python</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Languages</tspan>
 <tspan class="key">.</tspan>
 <tspan class="key">Computer</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ............... </tspan>
+<tspan class="cc"> ............. </tspan>
 <tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Languages</tspan>
 <tspan class="key">.</tspan>
 <tspan class="key">Real</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ................... </tspan>
+<tspan class="cc"> ................. </tspan>
 <tspan class="value">English, French</tspan>
 <tspan class="cc">. </tspan>
-<tspan class="cc"> .................................. </tspan>
+<tspan class="cc"> ................................ </tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Hobbies</tspan>
 <tspan class="key">.</tspan>
 <tspan class="key">Software</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ................. </tspan>
+<tspan class="cc"> ............... </tspan>
 <tspan class="value">AI, Automation, Marketplace Systems</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Hobbies</tspan>
 <tspan class="key">.</tspan>
 <tspan class="key">Hardware</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ................. </tspan>
+<tspan class="cc"> ............... </tspan>
 <tspan class="value">CAD, 3D Printing, PC Building</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Projects</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ......................... </tspan>
-<tspan class="value">Hybreed-Market, Digital Banking, Courier Trackr</tspan>
+<tspan class="cc"> ....................... </tspan>
+<tspan class="value">Hybreed-Market, Banking, Courier</tspan>
 </text>
-<text x="560" y="336" fill="#24292f">
-<tspan x="560" y="336">- Contact --------------------------------------------------------------</tspan>
+<text x="610" y="336" fill="#24292f">
+<tspan x="610" y="336">- Contact --------------------------------------------------------------</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Email</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ............................ </tspan>
+<tspan class="cc"> .......................... </tspan>
 <tspan class="value">ayuketangagbornoh@gmail.com</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Socials</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> .......................... </tspan>
+<tspan class="cc"> ........................ </tspan>
 <tspan class="value">@iamhybreed237 (all platforms)</tspan>
 </text>
-<text x="560" y="402" fill="#24292f">
-<tspan x="560" y="402">- GitHub Stats ----------------------------------------------------</tspan>
+<text x="610" y="402" fill="#24292f">
+<tspan x="610" y="402">- GitHub Stats ----------------------------------------------------</tspan>
 <tspan class="cc">. </tspan>
 <tspan class="key">Repos</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> ............................ </tspan>
+<tspan class="cc"> .......................... </tspan>
 <tspan class="cc" id="repo_data_dots"> .... </tspan>
 <tspan class="value" id="repo_data">4</tspan>
 <tspan class="cc"> {</tspan>
@@ -161,7 +161,7 @@ text, tspan {white-space: pre;}
 <tspan class="cc">. </tspan>
 <tspan class="key">Commits</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> .......................... </tspan>
+<tspan class="cc"> ........................ </tspan>
 <tspan class="cc" id="commit_data_dots"> .......... </tspan>
 <tspan class="value" id="commit_data">0</tspan>
 <tspan class="cc"> | </tspan>
@@ -172,7 +172,7 @@ text, tspan {white-space: pre;}
 <tspan class="cc">. </tspan>
 <tspan class="key">Lines of Code on GitHub</tspan>
 <tspan class="cc">:</tspan>
-<tspan class="cc"> .......... </tspan>
+<tspan class="cc"> ........ </tspan>
 <tspan class="cc" id="loc_data_dots"> ......... </tspan>
 <tspan class="value" id="loc_data">0</tspan>
 <tspan class="cc"> ( </tspan>
